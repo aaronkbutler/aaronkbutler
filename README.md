@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on building out an ML recommendation model for product suggestions
 - 🤔 I’m looking for help with moving along my career
 - 💬 Ask me about anything!
-- 📫 How to reach me: [Email](aaronkbutler@icloud.com)
+- 📫 How to reach me: [by email](mailto:aaronkbutler@icloud.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an avid skiier
