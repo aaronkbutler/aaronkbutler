@@ -8,3 +8,5 @@
 - 📫 How to reach me: [by email](mailto:aaronkbutler@icloud.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an avid skiier
+
+- Checkout my latest app on the App Store, [GoGoPet](https://apps.apple.com/us/app/gogopet/id1616920906)
