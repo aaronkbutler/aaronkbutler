@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Checkout my latest app on the App Store, [GoGoPet](https://apps.apple.com/us/app/gogopet/id1616920906)
+- 🐶 Checkout my latest app on the App Store, [GoGoPet](https://apps.apple.com/us/app/gogopet/id1616920906)
 - 🔭 I’m currently working on a sports jersey marketplace application
 - 🌱 I’m currently learning SwiftUI and React Native
 - 👯 I’m looking to collaborate on building out an ML recommendation model for product suggestions
