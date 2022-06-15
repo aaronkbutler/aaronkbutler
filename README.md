@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🐶 Check out my latest app on the App Store, [GoGoPet](https://apps.apple.com/us/app/gogopet/id1616920906). Featuring live run tracking and an AR experience!
-- 🐱 Also take a look at my new game I developed in Unity, [Cataclysm](https://simmer.io/@aaronkbutler/cataclysm)
+- 🐱 Also take a look at my new game I developed with Unity, [Cataclysm](https://simmer.io/@aaronkbutler/cataclysm)
 - 🔭 I’m currently working on a sports jersey marketplace application
 - 🌱 I’m currently learning SwiftUI and React Native
 - 👯 I’m looking to collaborate on building out an ML recommendation model for product suggestions
