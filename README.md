@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-- 🐶 Check out my latest app on the App Store, [GoGoPet](https://apps.apple.com/us/app/gogopet/id1616920906). Featuring live run tracking and an AR experience!
-- 🐱 Also take a look at my new game I developed with Unity, [Cataclysm](https://simmer.io/@aaronkbutler/cataclysm)
-- 🔭 I’m currently working on a sports jersey marketplace application
-- 🌱 I’m currently learning SwiftUI and React Native
-- 👯 I’m looking to collaborate on building out an ML recommendation model for product suggestions
-- 🤔 I’m looking for help with moving along my career
+- ᯅ I'm the creator of [SkyboxAI](https://apps.apple.com/us/app/skyboxai/id6479167838). Create AI generated enviroments for VisionPro!
+- 🔭 I’m currently working on a several visionOS apps.
+- 🐱 Also take a look at a game I developed in Unity, [Cataclysm](https://simmer.io/@aaronkbutler/cataclysm)
 - 💬 Ask me about anything!
 - 📫 How to reach me: [by email](mailto:aaronkbutler@icloud.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm an avid skiier
