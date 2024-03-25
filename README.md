@@ -5,4 +5,3 @@
 - 🐱 Also take a look at a game I developed in Unity, [Cataclysm](https://simmer.io/@aaronkbutler/cataclysm)
 - 💬 Ask me about anything!
 - 📫 How to reach me: [by email](mailto:aaronkbutler@icloud.com)
-- 😄 Pronouns: he/him
